@@ -14,15 +14,15 @@ de = ["-de"," de ","de-"]
 
 
 [accountsColors]
-distLearn = [314, "#FFC0CB"]
-stuSkillKelley = [292, "#FFC0CB"]
-talented = [300, "#FFC0CB"]
-stuSkill = [299, "#FFC0CB"]
-interventionIreadyEnrich = [298, "#FFC0CB"]
-appl = [301, "#FFC0CB"]
-advisory = [16, "#FF0000"]
-famOnboard = [10, "#FF0000"]
-de = [275,""]
+distLearn = ["314", "#FFC0CB"]
+stuSkillKelley = ["292", "#FFC0CB"]
+talented = ["300", "#FFC0CB"]
+stuSkill = ["299", "#FFC0CB"]
+interventionIreadyEnrich = ["298", "#FFC0CB"]
+appl = ["301", "#FFC0CB"]
+advisory = ["16", "#FF0000"]
+famOnboard = ["10", "#FF0000"]
+de = ["275",""]
 
 [16]# - Advisory
 "ADVISORY" = "#FF0000"
