@@ -246,6 +246,8 @@ de = ["275",""]
 "de history elect" = "#FFFF00"
 "de gen bio i sci" = "#0000FF"
 "de gen bio 2 sci" = "#0000FF"
+"ENG IV 1023 DE" = "#800080"
+"FINE ARTS DE" = "#FFC0CB"
 
 [280]# - Elementary Electives
 "PE 1" = "#FFC0CB"
@@ -358,6 +360,7 @@ de = ["275",""]
 "3rd math" = "#0000FF"
 "4th math" = "#0000FF"
 "5th math" = "#0000FF"
+"K-1 SS EL/MATH" = "#0000FF"
 
 [282]# - Elementary ELA
 "1st Grade ELA Enrichment" = "#800080"
@@ -706,6 +709,7 @@ de = ["275",""]
 "PTEC II UNIT (1)" = "#FFC0CB"
 "PTEC III OPER" = "#FFC0CB"
 "WELDING II (3)" = "#FFC0CB"
+"WORKPLACE SAFETY" = "#FFC0CB"
 
 [292]#- MS Electives
 "BAND 6" = "#FFC0CB"
@@ -994,6 +998,9 @@ de = ["275",""]
 "tal music i" = "#FFC0CB"
 "tal theater ms" = "#FFC0CB"
 "tal theatre hs" = "#FFC0CB"
+"GIFTED HS EN IIB" = "#FFC0CB"
+"TALENTED ART ELE" = "#FFC0CB"
+"TALENTED ART" = "#FFC0CB"
 
 [301]#- LA Connect
 "APP SCIENCE 5-8" = "#008000"
@@ -1049,6 +1056,10 @@ de = ["275",""]
 "app sci 8" = "#008000"
 "app soc stud 8" = "#008000"
 "app math 8" = "#008000"
+"APPLIED LANG K-6" = "#800080"
+"APPLIED MATH K-6" = "#800080"
+"APPLIED SCI K-6" = "#800080"
+"APPLIED SS K-6" = "#800080"
 
 [302]#- Credit Recovery/Proficiency
 "CRED RECOV/PROF" = "#FFC0CB"
@@ -1078,6 +1089,7 @@ de = ["275",""]
 "alg i leap rem" = "#0000FF"
 "geom leap rem" = "#0000FF"
 "biol i leap rem" = "#008000"
+"WORKKEYS PREP" = "#0000FF"
 
 [314]#- Distance Learning
 "WELDING III (3)" = "#FFC0CB"
